@@ -16,3 +16,7 @@ Función para Obtener parte entera y decimal.
 
 Declaración de variables que recibirán valores del usuario.
 (http://stackoverflow.com/questions/4774961/why-do-i-get-error-undeclared-identifier-unless-i-declare-my-variable-at-the-b)
+
+###Python
+Comandos para inicializar iPython Notebook en Terminal MAC
+(http://stackoverflow.com/questions/19961239/pelican-3-3-pelican-quickstart-error-valueerror-unknown-locale-utf-8)
