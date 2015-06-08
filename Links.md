@@ -10,6 +10,9 @@ Manejo de Variables en Sed
 Cortar segmentos de String
 (http://tldp.org/LDP/abs/html/string-manipulation.html)
 
+Manejo de BC
+(http://manpages.ubuntu.com/manpages/karmic/es/man1/bc.1.html)
+
 ###C
 Función para Obtener parte entera y decimal.
 (http://www.tutorialspoint.com/c_standard_library/c_function_modf.htm)
