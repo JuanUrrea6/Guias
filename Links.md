@@ -13,3 +13,6 @@ Cortar segmentos de String
 ###C
 Función para Obtener parte entera y decimal.
 (http://www.tutorialspoint.com/c_standard_library/c_function_modf.htm)
+
+Declaración de variables que recibirán valores del usuario.
+(http://stackoverflow.com/questions/4774961/why-do-i-get-error-undeclared-identifier-unless-i-declare-my-variable-at-the-b)
