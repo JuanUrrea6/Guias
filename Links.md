@@ -23,3 +23,10 @@ Declaración de variables que recibirán valores del usuario.
 ###Python
 Comandos para inicializar iPython Notebook en Terminal MAC
 (http://stackoverflow.com/questions/19961239/pelican-3-3-pelican-quickstart-error-valueerror-unknown-locale-utf-8)
+
+Manejo de Turtle()
+Repositorio Útil
+(https://github.com/macewanCMPT395/aspidites) 
+
+Documentación oficial
+(https://docs.python.org/2/library/turtle.html)
