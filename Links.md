@@ -30,3 +30,6 @@ Repositorio Útil
 
 Documentación oficial
 (https://docs.python.org/2/library/turtle.html)
+
+Animaciones
+https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/
