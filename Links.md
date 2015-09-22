@@ -33,3 +33,7 @@ Documentación oficial
 
 Animaciones
 https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/
+
+###Git
+Pequeña Guía:
+https://www.vrdc.cornell.edu/computing-for-economists/Git_CL_Slides/Git_Notes.pdf
