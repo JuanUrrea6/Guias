@@ -8,3 +8,7 @@ Guías útiles para código.
 ##Matlab
 Llamar funciones de Python desde Matlab
 *http://stackoverflow.com/questions/1707780/call-python-function-from-matlab
+
+##Varios
+*Trabajr con PDF
+http://www.ilovepdf.com/es
