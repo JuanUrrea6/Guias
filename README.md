@@ -10,5 +10,7 @@ Llamar funciones de Python desde Matlab
 *http://stackoverflow.com/questions/1707780/call-python-function-from-matlab
 
 ##Varios
-*Trabajr con PDF
+* Trabajr con PDF
 http://www.ilovepdf.com/es
+* Usar emoji en GitHub
+http://www.emoji-cheat-sheet.com/
