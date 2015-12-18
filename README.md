@@ -15,7 +15,8 @@ http://www.ilovepdf.com/es
 * Usar emoji en GitHub
 http://www.emoji-cheat-sheet.com/
 * Convertir notebook Jupyter a PDF desde consola
-jupyter nbconvert --to pdf Time_Fequency_Analysis.ipynb
+
+$jupyter nbconvert --to pdf Time_Fequency_Analysis.ipynb$
 
 
 ##Python GUI
