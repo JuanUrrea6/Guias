@@ -21,3 +21,9 @@ jupyter nbconvert --to pdf Time_Fequency_Analysis.ipynb
 
 ##Python GUI
 * http://www.tutorialspoint.com/python/python_gui_programming.htm
+
+## Cumulocity
+To make grunt commands work when nodejs is installed
+````
+ln -s /usr/bin/nodejs /usr/bin/node
+````
